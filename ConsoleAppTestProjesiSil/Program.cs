@@ -10,7 +10,7 @@ namespace ConsoleAppTestProjesiSil
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Mustafa Erdoğmuş");
         }
     }
 }
